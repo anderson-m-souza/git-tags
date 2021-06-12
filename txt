@@ -1,3 +1,1 @@
-first line of the text file
-x86_64 GNU/Linux
-Description: Apache HTTP Server
+Description: user friendly console-based viewer for info-document
