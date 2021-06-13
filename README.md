@@ -28,3 +28,14 @@
 	`git checkout -b <newbranch> <oldtagname>`
 - Than commit the patch:
 	`git commit -am <"message">`
+
+## GitHub Releases
+
+- GitHub releases are based on Git tags.
+- You can subscribe to receive notifications when new releases are published.
+- To create a release, select/create a tag, give the release a title and a description.
+- A title may have: date, version number etc.
+- A description may have new features, bug fixes, list of commits, links, nothing etc.
+- The description is writen using the Markdown syntax.
+- If a release is not ready for production, it can be set as a pre-release.
+- You can download the source code of a release.
